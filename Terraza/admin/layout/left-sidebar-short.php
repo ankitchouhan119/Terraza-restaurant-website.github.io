@@ -9,4 +9,4 @@
 
 		<div class="container">
 				<div class="row maincontent">
-					<div class="col s12 center">
+				      <div class="col s12 center">
