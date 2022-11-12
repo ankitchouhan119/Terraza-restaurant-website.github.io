@@ -19,6 +19,7 @@ you can.
 exclusive offers and discounts.
 • Comprehensive classification of the many items on the menu 
 and sophisticated filtering tools.
+
 • Make sure that the products' quality meets the guidelines set 
 up by India's Food Safety and Standards Authority
 1. Supplier Side:
