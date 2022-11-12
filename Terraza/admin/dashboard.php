@@ -1,3 +1,6 @@
+
+
+
 <?php require('layout/header.php'); ?>
 <?php require('layout/left-sidebar-long.php'); ?>
 <?php require('layout/topnav.php'); ?>
@@ -29,3 +32,5 @@ if (isset($_SESSION['msg'])) {
 
 <?php require('layout/about-modal.php'); ?>
 <?php require('layout/footer.php'); ?>
+
+
