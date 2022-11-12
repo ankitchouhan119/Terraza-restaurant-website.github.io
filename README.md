@@ -68,6 +68,7 @@ go to this url "http://localhost/Terraza/admin".
 
 #### ADMIN SECTION
 ![image](https://user-images.githubusercontent.com/78903052/201094784-550e23bd-ef4f-4541-8b88-5c94201a6a7b.png)
+
 The following are the major use cases associated with this 
 project:
 Our Project’s goals are:
