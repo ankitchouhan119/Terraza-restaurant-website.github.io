@@ -128,3 +128,26 @@ payment” (Simple)
 (Simple)
 16. Add/Remove Menu Successfully. (Simple)
 17. Error Message: Login Invalid. (Simple)
+
+● Inquiries:
+1. View items. (Average)
+2. View Menus. (Simple)
+3. Order status (tracking order). (Average)
+4. Contact (Average)
+Number of inquiries: 4
+
+● Files:
+1. List of registered patrons. (Average)
+2. List of registered Admins/Restaurant. (Average)
+3. List of items on menus. (Average)
+4. Shipping and payment information. (Complex)
+5. Stock and items amount left. (Average)
+6. Order and sales details for weekly report. (Complex)
+7. Allotting Orders to our delivery partner Entrega. (Complex)
+Number of files: 7
+
+● Interface/External Logical Files:
+1. Customer module. (Complex)
+2. Admins/Restaurants module. (Complex)
+3. Payment gateway API (PayGO) for facilitating payments. 
+(Average)
