@@ -1,3 +1,5 @@
+
+
 <?php
 
 
@@ -10,3 +12,4 @@ session_start();
 $_SESSION['msg'] = 'Logged out successfully!';
 
 header('location: index.php');
+
