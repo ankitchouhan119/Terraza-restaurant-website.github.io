@@ -1,3 +1,6 @@
+
+
+
 <?php require('layout/header.php'); ?>
 <?php require('layout/left-sidebar-long.php'); ?>
 <?php require('layout/topnav.php'); ?>
@@ -74,3 +77,5 @@
 
 <?php require('layout/about-modal.php'); ?>
 <?php require('layout/footer.php'); ?>
+
+
