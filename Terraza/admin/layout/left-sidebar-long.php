@@ -14,4 +14,3 @@
 				    <li class="list-group-item modal-trigger" data-target="modal1"><a href="#">About</a></li>
 				  </ul>
 			</div>
-	
