@@ -170,3 +170,17 @@ taken in the design:
 1. Creating the database.
 2. Establishing relationships.
 3. Creating user interfaces and system processes.
+
+User Interface Design
+1.  Principles
+The Structural Concept - UI is designed in such a way that 
+related things are combined and unrelated things are separated.
+The Simplicity Concept - The offered interface is simple to use. 
+In the event of a problem, the system shows an error message.
+The Visibility Concept - All system functionalities are accessible 
+via the UI. It does not overburden users with too many options.
+The Feedback Concept - The design keeps users informed of 
+actions, problems, or exceptions via a message system.
+The Concept of Reusability - In order to eliminate ambiguity, 
+the same names were used in design to conduct the same 
+operations with different objects.
