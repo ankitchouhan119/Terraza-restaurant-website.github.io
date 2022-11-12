@@ -74,3 +74,14 @@ To handle customer billing quickly and easily, AMOS interfaces with
 an existing payment system, such as a cash register and softwareaccessible credit system. The payment system must be functional to 
 inform the AMOS system whether the payment was successful or 
 unsuccessful.
+Surface computer UI
+Customers of restaurants interact with the Surface Computer UI. 
+Users of AMOS can move items such as food items, dietary needs, 
+tips, and menus around on their PC. These objects can be 
+transferred into objects, like meals and payments, to carry out a 
+range of tasks. In regards to this paradigm for object 
+manipulation, a constrained system menu is required. Using a 
+simple touch gesture, a double-tap on the touch surface, users 
+will call up their restaurant menu, which is combined with a 
+scheme menu, and will dismiss it with similar gesture or by 
+tapping a close button GUI element.
