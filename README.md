@@ -6,22 +6,31 @@ project:
 Our Project’s goals are:
 • Fulfill the demands of our online customers, providing them 
 with an easy interface to get their desired meal items.
+
 • Make it possible for customers to click a button to purchase 
 the needed items from anywhere in Gwalior.
+
 • To satisfy their daily demands, provide on-time delivery to 
 patrons like students, family, workers, etc. 
+
 • Make the payment interface as seamless, quick, and safe as 
 you can.
+
 • Verify the web application's mobile friendliness.
+
 • Implement an open review process.
+
 • Implement a mechanism for tracking deliveries.
+
 • Create a loyalty program to reward loyal consumers with 
 exclusive offers and discounts.
+
 • Comprehensive classification of the many items on the menu 
 and sophisticated filtering tools.
 
 • Make sure that the products' quality meets the guidelines set 
 up by India's Food Safety and Standards Authority
+
 1. Supplier Side:
 Our project's supplier is our client, Annapurna 
 Restaurant. The project gives the restaurant a platform 
@@ -151,3 +160,13 @@ Number of files: 7
 2. Admins/Restaurants module. (Complex)
 3. Payment gateway API (PayGO) for facilitating payments. 
 (Average)
+
+The following technique should be utilised when designing the 
+AMOS: The waterfall model will be the most appropriate 
+language for this type of system. This is due to the waterfall 
+model's suitability for visualising, designing, creating, and 
+documenting system aspects. The following approach will be 
+taken in the design:
+1. Creating the database.
+2. Establishing relationships.
+3. Creating user interfaces and system processes.
