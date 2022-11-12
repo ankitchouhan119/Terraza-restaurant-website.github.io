@@ -3,6 +3,24 @@
 ## ***Please open folder Terraza for the source code.***
 The following are the major use cases associated with this 
 project:
+Our Project’s goals are:
+• Fulfill the demands of our online customers, providing them 
+with an easy interface to get their desired meal items.
+• Make it possible for customers to click a button to purchase 
+the needed items from anywhere in Gwalior.
+• To satisfy their daily demands, provide on-time delivery to 
+patrons like students, family, workers, etc. 
+• Make the payment interface as seamless, quick, and safe as 
+you can.
+• Verify the web application's mobile friendliness.
+• Implement an open review process.
+• Implement a mechanism for tracking deliveries.
+• Create a loyalty program to reward loyal consumers with 
+exclusive offers and discounts.
+• Comprehensive classification of the many items on the menu 
+and sophisticated filtering tools.
+• Make sure that the products' quality meets the guidelines set 
+up by India's Food Safety and Standards Authority
 1. Supplier Side:
 Our project's supplier is our client, Annapurna 
 Restaurant. The project gives the restaurant a platform 
