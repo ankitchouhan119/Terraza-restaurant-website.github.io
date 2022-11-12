@@ -85,3 +85,21 @@ simple touch gesture, a double-tap on the touch surface, users
 will call up their restaurant menu, which is combined with a 
 scheme menu, and will dismiss it with similar gesture or by 
 tapping a close button GUI element.
+
+● Inputs:
+1. Pattron’s details (username and password) to access their 
+account. (Simple)
+2. Update Profile. (Simple)
+3. ‘Browse Menus’ search bar. (Simple)
+4. Browse Items (Simple)
+5. Sorting preference. (Average)
+6. Adding/Removing the desired amount of a product that is on 
+hand to the shopping cart. (Simple)
+7. Promo codes for availing cash discounts. (Simple)
+8. Ratings and written reviews for the products. (Simple)
+9. Item details (including images) for listing an item in the store. 
+(Average)
+10. Replying to the customer reviews. (Simple)
+11. Order details by the seller (Average).
+12. Register/Login Admin or restaurants. (Average)
+13. Add/Remove Admins. (Average)
