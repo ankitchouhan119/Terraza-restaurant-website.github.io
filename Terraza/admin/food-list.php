@@ -1,3 +1,6 @@
+
+
+
 <?php require('layout/header.php'); ?>
 <?php require('layout/left-sidebar-long.php'); ?>
 <?php require('layout/topnav.php'); ?>
@@ -78,3 +81,6 @@ $arr_all = $query->fetchAll(PDO::FETCH_ASSOC);
 
 <?php require('layout/about-modal.php'); ?>
 <?php require('layout/footer.php'); ?>
+
+
+
