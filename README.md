@@ -62,3 +62,15 @@ worked to put the product into perspective. Beyond the identified system
 constraints and assumptions, the discussion includes the final features of 
 the system. The section has been finished with a breakdown of the 
 requirements.
+
+A full AMOS system is software described in this SRS. The model 
+utilizes various pieces of hardware and software and additionally 
+connects to external systems. Thus, even though the software handles 
+the majority of the system's functionality, it also physically interacts 
+with people and relies on several external interfaces for persistence 
+and unhandled tasks.
+System Interfaces
+To handle customer billing quickly and easily, AMOS interfaces with 
+an existing payment system, such as a cash register and softwareaccessible credit system. The payment system must be functional to 
+inform the AMOS system whether the payment was successful or 
+unsuccessful.
