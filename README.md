@@ -41,3 +41,16 @@ their preferences. The numerous options also foster a
 healthy competitive environment, which helps our 
 client and their expansion of restaurants throughout 
 the city.
+
+There are numerous subsections in this document of software 
+requirements specifications. The purpose, scope, and organization of 
+the document are all explained in the first section. The definition of 
+project-specific terms, acronyms, and abbreviations utilized in the 
+document is also covered in the first section.
+The functionalities of the software are described in non-technical 
+terms in the second section of the document. It serves as a preface to 
+the section on technical requirements in the third part of the 
+document and describes the informal requirements.
+All of the specifications outlined for this system are enumerated in 
+the third section. It explains the software's intricate functionality in 
+technical terms and is primarily aimed at developers.
