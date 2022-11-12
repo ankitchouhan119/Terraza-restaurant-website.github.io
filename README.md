@@ -54,3 +54,11 @@ document and describes the informal requirements.
 All of the specifications outlined for this system are enumerated in 
 the third section. It explains the software's intricate functionality in 
 technical terms and is primarily aimed at developers.
+
+An overview of the topic AMOS is given in the next section. A thorough 
+review of the system, user, hardware, software, and transceiver, memory 
+considerations, operational modes, and site adaptation requirements has 
+worked to put the product into perspective. Beyond the identified system 
+constraints and assumptions, the discussion includes the final features of 
+the system. The section has been finished with a breakdown of the 
+requirements.
