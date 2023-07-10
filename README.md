@@ -3,11 +3,7 @@
 ## ***Please open folder Terraza for the source code.***
 #                                                             TERRAZA RESTAURANT WEBSITE 
 
-A Simple Demo Restaurant Website made by our team members.
-1. ANKIT CHOUHAN
-2. ASHWINI KUMAR MEENA
-3. DEEPJYOTI BORO
-4. ARCHISHMAN
+
 
 ## ABOUT THE WEBSITE
 This project is developed using PHP, Javascript, and CSS. In the project, there is an ***admin side*** (manager) and a ***user side*** (customer).<br /> ***Admins*** can manage all site contents, update food items, add categories, and check orders.<br /><br />
